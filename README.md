@@ -15,6 +15,8 @@ structure for numerical computing in Python.
 
 First presented at Boston Algorithmic Trading on Tuesday, Aug 1st, 2017.
 
+Video of the presentation: [https://youtu.be/YAHZa8xZWBU](https://youtu.be/YAHZa8xZWBU).
+
 Running the Presentation
 ------------------------
 
